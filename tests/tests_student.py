@@ -65,5 +65,5 @@ class TestStudent(unittest.TestCase):
                                f'than a walking {student_2} ')
 
 
-if __name__ == '__name__':
+if __name__ == '__main__':
     unittest.main()
