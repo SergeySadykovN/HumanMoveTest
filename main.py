@@ -15,5 +15,3 @@ class Student:
 
 
 
-pers1 = Student('Serg')
-pers2 = Student('Anton')
